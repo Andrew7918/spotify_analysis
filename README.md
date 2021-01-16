@@ -43,6 +43,7 @@ spotify_analysis
 7. Run the cells of udacity_project.ipynb #Make sure to change input paths accordingly
 
 ## Blog Post
+https://andrew-william.medium.com/using-data-to-show-why-adele-is-an-amazing-singer-musician-6de886d80e61
 
 ## Acknowledgements
 
